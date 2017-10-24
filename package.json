@@ -1,0 +1,17 @@
+{
+  "name": "Html to PDF",
+  "version": "1.0.0",
+  "description": "",
+  "main": "htmltopdf.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "charset": "^1.0.1",
+    "html-pdf": "^2.2.0",
+    "iconv": "^2.3.0",
+    "jschardet": "^1.5.1"
+  }
+}
