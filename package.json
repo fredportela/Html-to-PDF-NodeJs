@@ -9,7 +9,8 @@
     "iconv": "^2.3.0",
     "jschardet": "^1.5.1",
     "node-gyp": "^3.6.2",
-    "node-wkhtmltopdf": "^2.0.0"
+    "node-wkhtmltopdf": "^2.0.0",
+    "phantomjs": "^2.1.7"
   },
   "devDependencies": {},
   "scripts": {
