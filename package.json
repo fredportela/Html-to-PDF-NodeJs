@@ -1,17 +1,33 @@
 {
-  "name": "Html to PDF",
+  "name": "html-to-pdf",
   "version": "1.0.0",
   "description": "",
   "main": "htmltopdf.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "author": "",
-  "license": "ISC",
   "dependencies": {
     "charset": "^1.0.1",
     "html-pdf": "^2.2.0",
     "iconv": "^2.3.0",
-    "jschardet": "^1.5.1"
-  }
+    "iconv-lite": "^0.4.19",
+    "jschardet": "^1.5.1",
+    "node-wkhtmltopdf": "^2.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fredportela/Html-to-PDF-NodeJs.git"
+  },
+  "keywords": [
+    "html",
+    "pdf",
+    "convert"
+  ],
+  "author": "FredPortela",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fredportela/Html-to-PDF-NodeJs/issues"
+  },
+  "homepage": "https://github.com/fredportela/Html-to-PDF-NodeJs#readme"
 }
